@@ -8,4 +8,5 @@
 paths.dnys
 do_install
 **/.DS_Store
-config.bat
+
+.env
